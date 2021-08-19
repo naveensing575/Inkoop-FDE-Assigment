@@ -169,6 +169,14 @@ and (orientation: portrait)
 		box-sizing: border-box;
 		display: block;
 	}
+	button{
+		background: transparent;
+		border: none;
+	}
+	button + .cosmo:active,
+	button:focus + .cosmo {
+    visibility: visible;
+}
 	.container
 	{
 		margin: 1em;
