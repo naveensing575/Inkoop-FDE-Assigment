@@ -185,7 +185,7 @@ and (orientation: portrait)
 	.content-right
 	{
 		width: 85%;
-		transform: translate(-118rem,75rem);
+		transform: translate(-125rem,75rem);
 		display:block;
 		font-size: 4ch;		
 	}
@@ -201,7 +201,7 @@ and (orientation: portrait)
 	h3
 	{
 		font-size: 3ch;
-		margin-top: 1em;
+		margin-top: .7em;
 	}
 	.content-bottom
 	{
@@ -222,8 +222,8 @@ and (orientation: portrait)
 	}
 	.image-card
 	{
-		height: 20rem;
-		width: 15rem;
+		height: 19rem;
+		width: 17rem;
 		margin-left: 3rem;
 	}
 	.image-circle
