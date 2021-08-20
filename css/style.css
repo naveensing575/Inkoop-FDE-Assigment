@@ -235,8 +235,8 @@ and (orientation: portrait)
 	.mobile
 	{
 		display: inline-flex;
-		margin-top: 22em;
-		margin-left: -42em;
+		margin-top: 24em;
+		margin-left: -45em;
 	}
 	.menu-bar, .cart
 	{
