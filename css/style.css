@@ -185,13 +185,13 @@ and (orientation: portrait)
 	.content-right
 	{
 		width: 80%;
-		transform: translate(-89rem,55rem);
+		transform: translate(-89rem,65rem);
 		display:block;
 		font-size: 3ch;		
 	}
 	.line
 	{
-		transform: translate(-66.5rem,55rem);
+		transform: translate(-66.5rem,65rem);
 	}
 	.content-heading
 	{
