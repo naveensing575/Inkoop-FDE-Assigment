@@ -185,7 +185,7 @@ and (orientation: portrait)
 	.content-right
 	{
 		width: 80%;
-		transform: translate(-93rem,75rem);
+		transform: translate(-100rem,75rem);
 		display:block;
 		font-size: 3ch;		
 	}
