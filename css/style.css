@@ -173,10 +173,6 @@ and (orientation: portrait)
 		background: transparent;
 		border: none;
 	}
-	button + .cosmo:active,
-	button:focus + .cosmo {
-    visibility: visible;
-}
 	.container
 	{
 		margin: 1em;
@@ -188,24 +184,24 @@ and (orientation: portrait)
 	}
 	.content-right
 	{
-		width: 90%;
-		transform: translate(-69rem,30rem);
-		display:block;		
+		width: 80%;
+		transform: translate(-89rem,55rem);
+		display:block;
+		font-size: 3ch;		
 	}
 	.line
 	{
-		transform: translate(-69rem,30rem);
+		transform: translate(-66.5rem,55rem);
 	}
 	.content-heading
 	{
-		margin-left: -17rem;
+		margin-left: -15rem;
 		margin-top: 2em;
-		display: block;
-		margin-top: -8rem;
+		margin-top: -13rem;
 	}
 	h3
 	{
-		font-size: 1.5ch;
+		font-size: 3ch;
 		margin-top: 1em;
 	}
 	.content-bottom
@@ -215,32 +211,33 @@ and (orientation: portrait)
 	}
 	h1
 	{
-		font-size:1.6ch;
+		font-size:4ch;
 		letter-spacing: .2ch;
 		word-spacing: 0;
 	}
 	.head
 	{
-		font-size: 3ch;
-		margin-left: 12rem;
-		margin-top: -1.2em;
+		font-size: 7ch;
+		margin-left: 26rem;
+		margin-top: -1.3em;
 	}
 	.image-card
 	{
-		height: 11em;
-		width: 8em;
+		height: 20rem;
+		width: 15rem;
+		margin-left: 3rem;
 	}
 	.image-circle
 	{
-		margin-top: 1em;
-		height: 6em;
-		width: 6em;
+		margin-top: 1.5em;
+		height: 12rem;
+		width: 12rem;
 	}
 	.mobile
 	{
 		display: inline-flex;
-		margin-top: 12em;
-		margin-left: -19em;
+		margin-top: 22em;
+		margin-left: -39em;
 	}
 	.menu-bar, .cart
 	{
@@ -249,13 +246,17 @@ and (orientation: portrait)
 	}
 	.menu-bar
 	{
-		margin-left: 2em;
+		margin-left: 3em;
+		height: 5rem;
+		width: 5rem;
 	}
 	.cart
 	{
 		right: 0;
 		top: 0;
-		margin-left: 4rem;
+		margin-left: 34rem;
+		height: 5rem;
+		width: 5rem;
 	}
 	.hide
 	{
