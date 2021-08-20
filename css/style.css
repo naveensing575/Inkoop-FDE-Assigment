@@ -185,7 +185,7 @@ and (orientation: portrait)
 	.content-right
 	{
 		width: 85%;
-		transform: translate(-108rem,75rem);
+		transform: translate(-118rem,75rem);
 		display:block;
 		font-size: 4ch;		
 	}
@@ -195,9 +195,8 @@ and (orientation: portrait)
 	}
 	.content-heading
 	{
-		margin-left: -17rem;
-		margin-top: 2em;
-		margin-top: -13rem;
+		margin-left: -15rem;
+		margin-top: -17rem;
 	}
 	h3
 	{
